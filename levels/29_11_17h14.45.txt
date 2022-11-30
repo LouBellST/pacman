@@ -1,0 +1,23 @@
+29_11_17h14.45 1200 3
+xxxxxxxxxxxxxxxxxxxxxxx
+xooooRRRRRRxRRRRRRRRRRx
+xOxxxRxxxxRxRxxxxRxxxRx
+xoxxxRxxxxRxRxxxxRxxxRx
+xRRRRRRRRoRRRRRRRRRRRRx
+xRxxxRxRxxxxxxxRxRxxxRx
+xRRRRRxRRRRxRRRRxRRRRRx
+xxxxxRxxxxRxRxxxxoxxxxx
+VVVVxRxRRRRRRRRRxoxVVVV
+xxxxxRxRxxxGxxxRxoxxxxx
+RRRRRRRRxVVVVVxRRPRRRRR
+xxxxxRxRxxxxxxxRxRxxxxx
+VVVVxRxRRRRRRRRRxRxVVVV
+xxxxxRxRxxxxxxxRxRxxxxx
+xooooRoooooxoooooRRRRRx
+xoxxxRxxxxoxoxxxxRxxxRx
+xOooxRRRRRRRRRRRRRxRRRx
+xxxoxRxoxxxxxxxoxRxRxxx
+xooooRxooooxooooxRRRoox
+xoxxxxxxxxoxoxxxxxxxxox
+xooooooooooooooooooooox
+xxxxxxxxxxxxxxxxxxxxxxx

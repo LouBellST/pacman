@@ -1,0 +1,23 @@
+29_11_23h56.59 890 2
+xxxxxxxxxxxxxxxxxxxxxxx
+xooooRRRRRRxRRRRRRRRRRx
+xOxxxRxxxxRxRxxxxRxxxRx
+xoxxxRxxxxRxRxxxxRxxxRx
+xRRRRRRRRoRRRRRRRRRRRRx
+xRxxxRxRxxxxxxxRxRxxxRx
+xRRRRRxGRRRxRRRRxRRRRRx
+xxxxxRxxxxRxRxxxxoxxxxx
+VVVVxRxRRRRRRRRRxoxVVVV
+xxxxxRxRxxxRxxxRxoxxxxx
+RRRRRRRRxVVVVVxRRoRRRRR
+xxxxxRxRxxxxxxxRxoxxxxx
+VVVVxRxRRRRRRRRRxoxVVVV
+xxxxxRxRxxxxxxxRxoxxxxx
+xooooRoooooxoooooooooox
+xoxxxPxxxxoxoxxxxoxxxox
+xOooxRRRRRRRooooooxooOx
+xxxoxoxoxxxxxxxoxoxoxxx
+xoooooxooooxooooxooooox
+xoxxxxxxxxoxoxxxxxxxxox
+xooooooooooooooooooooox
+xxxxxxxxxxxxxxxxxxxxxxx

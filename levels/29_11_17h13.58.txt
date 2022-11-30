@@ -1,0 +1,23 @@
+29_11_17h13.58 340 2
+xxxxxxxxxxxxxxxxxxxxxxx
+xooooRRRRRRxoooooooooox
+xOxxxRxxxxRxoxxxxoxxxOx
+xoxxxRxxxxRxoxxxxoxxxox
+xooooRooooRRRRRPoooooox
+xoxxxRxoxxxxxxxoxoxxxox
+xooooRxooooxooooxooooox
+xxxxxRxxxxRxRxxxxoxxxxx
+VVVVxRxRRRRRRRRRxoxVVVV
+xxxxxRxRxxxGxxxRxoxxxxx
+RRRRRRRRxVVVVVxRRoRRRRR
+xxxxxRxRxxxxxxxRxoxxxxx
+VVVVxRxRRRRRRRRRxoxVVVV
+xxxxxRxRxxxxxxxRxoxxxxx
+xooooRoooooxoooooooooox
+xoxxxRxxxxoxoxxxxoxxxox
+xOooxRRRRRRRooooooxooOx
+xxxoxoxoxxxxxxxoxoxoxxx
+xoooooxooooxooooxooooox
+xoxxxxxxxxoxoxxxxxxxxox
+xooooooooooooooooooooox
+xxxxxxxxxxxxxxxxxxxxxxx
